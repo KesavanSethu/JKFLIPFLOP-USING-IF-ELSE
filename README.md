@@ -38,14 +38,13 @@ Go to quartus software.
 
 Set new environment.
 
-Type the code to implement SR flipflop using verilog and validating their functionality using their functional tables.
+Type the code to implement JK flipflop using verilog and validating their functionality using their functional tables.
 
 Run the program.
 
 Give inputs in the waveform table.
 
 Run the program.
-/* write all the steps invloved */
 
 **PROGRAM**
 ```
