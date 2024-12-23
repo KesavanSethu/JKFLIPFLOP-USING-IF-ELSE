@@ -63,7 +63,7 @@ module exp7(j, k, clk, q, qbar);
     end
 endmodule
 ```
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: Kesavan.S RegisterNumber: 24003333
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: Santhanam S RegisterNumber: 24900166
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
